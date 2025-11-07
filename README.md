@@ -8,7 +8,7 @@
 
 
 ![fastfetch_showcase](/fastfetch_showcase)
-
+#### !Before executing commands backup your previous custom fastfetch config if you had it 
 ### Installation: 
 `git clone https://github.com/SubzeroToast/fastfetch-hornet/ ~/.local/share/fastfetch `<br>`
  rm -rfv ~/.config/fastfetch && mkdir ~/.config/fastfetch `<br>`
