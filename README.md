@@ -2,7 +2,7 @@
 
 ### Requirements:
 
-<p>installed fastfetch</p><br>
+Installed [fastfetch](https://github.com/fastfetch-cli/fastfetch)<br>
 
 ### Showcase: 
 
